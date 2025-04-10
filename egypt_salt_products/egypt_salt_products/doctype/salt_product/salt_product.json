@@ -1,0 +1,9 @@
+{
+  "doctype": "DocType",
+  "name": "Salt Product",
+  "module": "Egypt Salt Products",
+  "custom": 1,
+  "fields": [],
+  "permissions": [],
+  "is_submittable": 0
+}
