@@ -1,1 +1,0 @@
-# Hooks for Egypt Salt Products
