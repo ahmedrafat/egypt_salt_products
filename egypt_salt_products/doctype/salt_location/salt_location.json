@@ -1,9 +1,0 @@
-{
-  "doctype": "DocType",
-  "name": "Salt Location",
-  "module": "Egypt Salt Products",
-  "custom": 1,
-  "fields": [],
-  "permissions": [],
-  "is_submittable": 0
-}
